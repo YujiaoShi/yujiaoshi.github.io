@@ -1,1 +1,0 @@
-This is the source code of Yujiao Shi's homepage. Template is from Jon Barron's public academic website: https://jonbarron.info/.
