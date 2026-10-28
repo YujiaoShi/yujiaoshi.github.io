@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="430" viewBox="0 0 1120 430" role="img" aria-labelledby="title desc">
+<title id="title">One world, many perspectives</title>
+<desc id="desc">A conceptual diagram linking satellite, drone and ground observations with shared 3D geometry and consistent novel views.</desc>
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#26716a" stroke-opacity=".045"/></pattern>
+  <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="m1 1 6 3-6 3" fill="none" stroke="#26716a" stroke-width="1.2"/></marker>
+</defs>
+<rect width="1120" height="430" rx="8" fill="#eef2ec"/><rect width="1120" height="430" fill="url(#grid)"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#173c3b">
+  <text x="36" y="35" fill="#526e68" font-size="11" letter-spacing="2">OBSERVE ACROSS ALTITUDES</text>
+  <text x="431" y="35" fill="#526e68" font-size="11" letter-spacing="2">CONNECT IN 3D</text>
+  <text x="866" y="35" fill="#526e68" font-size="11" letter-spacing="2">GENERATE NEW VIEWS</text>
+  <g stroke="#26716a" stroke-width="1.6" fill="none" stroke-linejoin="round">
+    <path d="M36 65H304M36 176H304M36 287H304" stroke-opacity=".22"/>
+    <g transform="translate(54 88)">
+      <path d="m0 3 17-8 15 8-17 8Zm38 20 17-8 15 8-17 8Z" fill="#d3dfd6"/>
+      <path d="m21 7 16-7 12 17-16 7Z" fill="#faf9f5"/>
+      <path d="m31 6 9 12M28 16l-6 20m-4 0q4 9 12 2M29 29q12 9 23 6"/>
+    </g>
+    <g transform="translate(59 201)">
+      <path d="m12 8 44 18m-44 0 44-18"/><ellipse cx="8" cy="7" rx="15" ry="5"/><ellipse cx="59" cy="7" rx="15" ry="5"/><ellipse cx="8" cy="29" rx="15" ry="5"/><ellipse cx="59" cy="29" rx="15" ry="5"/>
+      <path d="m21 12 13-4 14 7v9l-14 5-13-5Z" fill="#faf9f5"/><path d="M30 29v9h9v-9"/>
+    </g>
+    <g transform="translate(61 315)"><path d="M8 7h12l4-7h18l4 7h12v29H8Z" fill="#faf9f5"/><circle cx="33" cy="21" r="9"/><path d="M0 20h-9m76 0h10M-7 4q-12 16 0 31m81-31q12 16 0 31" stroke-opacity=".5"/></g>
+    <path d="M302 117C367 117 337 215 402 215M302 228H402M302 339C367 339 337 241 402 241" stroke-opacity=".6" stroke-dasharray="4 5"/>
+    <path d="M771 228H834" marker-end="url(#arrow)"/>
+  </g>
+  <g font-size="21"><text x="160" y="113">Space</text><text x="160" y="224">Air</text><text x="160" y="335">Ground</text></g>
+  <g font-size="13" fill="#526e68"><text x="160" y="137">Satellite imagery</text><text x="160" y="248">Aerial observations</text><text x="160" y="359">Street views &amp; 360°</text></g>
+  <g transform="translate(426 111)" stroke="#447e73" stroke-width="1.4" stroke-linejoin="round">
+    <path d="m0 134 170-91 170 88-170 92Z" fill="#e2e9df"/>
+    <g fill="none" stroke-opacity=".35"><path d="m34 116 170 89M68 98l170 89M102 80l170 89M136 62l170 89M34 152l170-91M68 170l170-91M102 188l170-91M136 206l170-91"/></g>
+    <path d="m96 160 37-20 31 17 37-20 39 20" fill="none" stroke="#a87951" stroke-width="3"/>
+    <g><path d="m79 109 42-23 39 21v-62l-39-21-42 23Z" fill="#faf9f5"/><path d="m79 47 42 23 39-25m-39 25v62" fill="none"/><path d="m121 70 39-25v62l-39 25Z" fill="#c8d9cd"/></g>
+    <g><path d="m181 117 44-24 37 20V70l-37-20-44 24Z" fill="#faf9f5"/><path d="m181 74 44 24 37-28m-37 28v39" fill="none"/><path d="m225 98 37-28v43l-37 24Z" fill="#c8d9cd"/></g>
+    <g><path d="m142 73 33-17 28 15V25l-28-15-33 17Z" fill="#faf9f5"/><path d="m142 27 33 18 28-20m-28 20v43" fill="none"/><path d="m175 45 28-20v46l-28 17Z" fill="#c8d9cd"/></g>
+    <g fill="#26716a" stroke="none"><circle cx="40" cy="132" r="3"/><circle cx="98" cy="174" r="3"/><circle cx="201" cy="186" r="3"/><circle cx="299" cy="130" r="3"/></g>
+    <path d="m40 132 39-85m19 127 23-104m80 116 24-88m74 32-37-60" fill="none" stroke-dasharray="3 5" stroke-opacity=".6"/>
+  </g>
+  <text x="596" y="363" text-anchor="middle" font-size="19">A shared spatial representation</text><text x="596" y="386" text-anchor="middle" font-size="13" fill="#526e68">Localization · Geometry · Reconstruction</text>
+  <g stroke="#447e73" stroke-width="1.4" fill="#faf9f5" stroke-linejoin="round">
+    <path d="M854 106h216v101H854Z"/><path d="M854 174h216" stroke-opacity=".4"/>
+    <path d="m865 173 40-28 26 25 24-10 26 12 36-30 42 30" fill="#dce6d8"/>
+    <path d="M881 174v-28h19v28m41 0v-44h24v44m33 0v-32h21v32" fill="#cadacd"/>
+    <circle cx="1036" cy="127" r="8" fill="#cdbb91" stroke="none"/>
+    <path d="M854 239q108-29 216 0v83q-108 29-216 0Z"/><path d="M854 301q108-29 216 0" stroke-opacity=".4"/>
+    <path d="M872 294v-31l24-7v31m23-5v-39l25-3v40m23 0v-43l26 2v44m22 5v-29l29 8v29" fill="#cadacd"/>
+    <path d="m919 280-22 52m78-52 29 52" stroke="#a87951"/>
+  </g>
+  <text x="962" y="363" text-anchor="middle" font-size="19">Consistent scene generation</text><text x="962" y="386" text-anchor="middle" font-size="13" fill="#526e68">Novel views · Panoramas</text>
+</g>
+</svg>
