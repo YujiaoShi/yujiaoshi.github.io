@@ -1,0 +1,459 @@
+{
+  "checked_on": "2026-10-08",
+  "scholar_status": "Direct access unavailable; records checked against linked primary sources and author corrections. This is not a complete Scholar reconciliation.",
+  "service_source": "User confirmed NeurIPS 2024–2026, CVPR 2026, ICLR 2027, 3DV 2027 Area Chair roles. Grouped under a single 2026 news update; actual conference years preserved.",
+  "added_publications": [
+    {
+      "title": "Cross-View Yaw Estimation in Location Uncertainty with Line-Aligning Yaw Scoring",
+      "authors": "Taeho Kang, Nairan Zhang, Yelin Kim, Yujiao Shi, Youngki Lee",
+      "venue": "ECCV · 2026 · Award Candidate",
+      "links": [
+        [
+          "https://arxiv.org/abs/2606.22094",
+          "Paper"
+        ]
+      ],
+      "summary": "Estimating camera orientation across ground and aerial views under location uncertainty.",
+      "image": "data/LAYS.png",
+      "status_source": "Author correction, 2026-10-08"
+    },
+    {
+      "title": "Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images",
+      "authors": "Qiwei Wang, Zhongyao Tuo, Xianghui Ze, Yujiao Shi *",
+      "venue": "NeurIPS · 2026",
+      "links": [
+        [
+          "https://arxiv.org/abs/2605.07978",
+          "Paper"
+        ],
+        [
+          "https://github.com/ZhongyaoTuo/crossgeo",
+          "Code & data"
+        ]
+      ],
+      "summary": "Cross3R connects satellite, drone, and ground observations through joint 3D reconstruction and camera pose estimation.",
+      "image": "data/Cross3R.png",
+      "status_source": "Author correction, 2026-10-08",
+      "corresponding_author": "Yujiao Shi",
+      "corresponding_author_source": "Author confirmation, 2026-10-08"
+    },
+    {
+      "title": "VGA: Empowering Aerial-Ground Localization by Visual Geometry Alignment",
+      "authors": "Tao Jun Lin, Yujiao Shi, Hongdong Li",
+      "venue": "CVPR · 2026",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content/CVPR2026/html/Lin_VGA_Empowering_Aerial-Ground_Localization_by_Visual_Geometry_Alignment_CVPR_2026_paper.html",
+          "Paper"
+        ]
+      ],
+      "summary": "",
+      "image": "data/VGA.png"
+    },
+    {
+      "title": "PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery",
+      "authors": "Yijing Guo, Mengjun Chao, Luo Wang, Tianyang Zhao, Haizhao Dai, Yingliang Zhang, Jingyi Yu, Yujiao Shi *",
+      "venue": "CVPR · 2026",
+      "links": [
+        [
+          "https://arxiv.org/abs/2603.17571",
+          "Paper"
+        ],
+        [
+          "https://github.com/YijingGuo-June/PanoVGGT",
+          "Code & data"
+        ]
+      ],
+      "summary": "Joint camera pose, depth, and point-cloud prediction from 360° imagery, with the PanoCity dataset.",
+      "image": "data/PanoVGGT.png",
+      "corresponding_author": "Yujiao Shi",
+      "corresponding_author_source": "Author confirmation, 2026-10-08"
+    },
+    {
+      "title": "AffordGrasp: Cross-Modal Diffusion for Affordance-Aware Grasp Synthesis",
+      "authors": "Xiaofei Wu, Yi Zhang, Yumeng Liu, Yuexin Ma, Yujiao Shi, Xuming He",
+      "venue": "CVPR · 2026",
+      "links": [
+        [
+          "https://arxiv.org/abs/2603.08021",
+          "Paper"
+        ]
+      ],
+      "summary": "Generating human grasps conditioned on object geometry and interaction instructions.",
+      "image": "data/AffordGrasp.png"
+    },
+    {
+      "title": "CylinderSplat: 3D Gaussian Splatting with Cylindrical Triplanes for Panoramic Novel View Synthesis",
+      "authors": "Qiwei Wang, Xianghui Ze, Jingyi Yu, Yujiao Shi *",
+      "venue": "ICLR · 2026",
+      "links": [
+        [
+          "https://openreview.net/pdf?id=lEzkct87Uy",
+          "Paper"
+        ],
+        [
+          "https://github.com/wangqww/CylinderSplat",
+          "Code"
+        ]
+      ],
+      "summary": "A panoramic scene representation for novel view synthesis from single or sparse input panoramas.",
+      "image": "data/CylinderSplat.png",
+      "corresponding_author": "Yujiao Shi",
+      "corresponding_author_source": "Author confirmation, 2026-10-08"
+    },
+    {
+      "title": "SatDreamer360: Multiview-Consistent Generation of Ground-Level Scenes from Satellite Imagery",
+      "authors": "Xianghui Ze, Beiyi Zhu, Zhenbo Song, Jianfeng Lu, Yujiao Shi *",
+      "venue": "ICLR · 2026",
+      "links": [
+        [
+          "https://openreview.net/pdf?id=wmQoigkqUt",
+          "Paper"
+        ]
+      ],
+      "summary": "Generating geometrically consistent ground-level panoramas from a satellite image and a camera trajectory.",
+      "image": "data/SatDreamer360.png",
+      "corresponding_author": "Yujiao Shi",
+      "corresponding_author_source": "Author confirmation, 2026-10-08"
+    },
+    {
+      "title": "CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians",
+      "authors": "Weihang Liu, Yuhui Zhong, Yuke Li, Xi Chen, Jiadi Cui, Honglong Zhang, Lan Xu, Xin Lou, Yujiao Shi, Jingyi Yu, Yingliang Zhang",
+      "venue": "SIGGRAPH Asia · 2025",
+      "links": [
+        [
+          "https://arxiv.org/abs/2505.21041",
+          "Paper"
+        ],
+        [
+          "https://citygo-weihang.github.io/page/",
+          "Project"
+        ]
+      ],
+      "summary": "Combining building geometry and Gaussian primitives for efficient urban scene rendering.",
+      "image": "data/CityGo.jpg"
+    },
+    {
+      "title": "GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised Cross-View Localization",
+      "authors": "Shaowen Tong, Zimin Xia, Alexandre Alahi, Xuming He, Yujiao Shi *",
+      "venue": "ICCV · 2025",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content/ICCV2025/html/Tong_GeoDistill_Geometry-Guided_Self-Distillation_for_Weakly_Supervised_Cross-View_Localization_ICCV_2025_paper.html",
+          "Paper"
+        ],
+        [
+          "https://github.com/tongshw/GeoDistill",
+          "Code"
+        ]
+      ],
+      "summary": "Learning cross-view localization with coarse supervision through geometry-guided self-distillation.",
+      "image": "data/GeoDistill.png",
+      "corresponding_author": "Yujiao Shi",
+      "corresponding_author_source": "Author confirmation, 2026-10-08"
+    },
+    {
+      "title": "DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios",
+      "authors": "Xiangting Meng, Jiaqi Yang, Mingshu Chen, Chenxin Yan, Yujiao Shi, Wenchao Ding, Laurent Kneip",
+      "venue": "IEEE Robotics and Automation Letters · 2025",
+      "links": [
+        [
+          "https://arxiv.org/abs/2503.19625",
+          "Paper"
+        ],
+        [
+          "https://stay332.github.io/DynOPETs/",
+          "Project"
+        ]
+      ],
+      "summary": "",
+      "image": "data/DynOPETs.png"
+    }
+  ],
+  "preserved_publications": [
+    {
+      "title": "BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization",
+      "authors": "Qiwei Wang, Shaoxun Wu, and Yujiao Shi *",
+      "venue": "NeurIPS · 2025 · Spotlight",
+      "links": [
+        [
+          "https://proceedings.neurips.cc/paper_files/paper/2025/hash/e5ba3d6d93213db6b1d1931c6517fe1a-Abstract-Conference.html",
+          "Paper"
+        ]
+      ],
+      "image": "data/BevSplat.png",
+      "summary": ""
+    },
+    {
+      "title": "Controllable Satellite-to-Street-View Synthesis with Precise Pose Alignment and Zero-Shot Environmental Control",
+      "authors": "Xianghui Ze, Zhenbo Song, Qiwei Wang, Jianfeng Lu, and Yujiao Shi *",
+      "venue": "ICLR, 2025",
+      "links": [
+        [
+          "https://arxiv.org/abs/2502.03498",
+          "Paper"
+        ],
+        [
+          "https://github.com/XianghuiZe/CS2S_pose_environment",
+          "Code"
+        ]
+      ],
+      "image": "data/ICLR25.png",
+      "summary": ""
+    },
+    {
+      "title": "LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives",
+      "authors": "Jiadi Cui, Junming Cao, Fuqiang Zhao, Zhipeng He, Yifan Chen, Yuhui Zhong, Lan Xu, Yujiao Shi *, Yingliang Zhang *, Jingyi Yu *",
+      "venue": "ACM Transactions on Graphics · 2024",
+      "links": [
+        [
+          "https://arxiv.org/abs/2404.09748",
+          "Paper"
+        ]
+      ],
+      "image": "data/LetsGo.jpg",
+      "summary": ""
+    },
+    {
+      "title": "FastGrasp: Efficient Grasp Synthesis with Diffusion",
+      "authors": "Xiaofei Wu, Tao Liu, Caoji Li, Yuexin Ma, Yujiao Shi *, and Xuming He*",
+      "venue": "3DV, 2025",
+      "links": [
+        [
+          "https://github.com/wuxiaofei01/FastGrasp",
+          "Code & paper"
+        ]
+      ],
+      "image": "data/FastGrasp.jpg",
+      "summary": ""
+    },
+    {
+      "title": "Geometry-guided Cross-view Diffusion for One-to-many Cross-view Image Synthesis",
+      "authors": "Tao Jun Lin, Wenqing Wang, Yujiao Shi , Akhil Perincherry, Ankit Vora, and Hongdong Li",
+      "venue": "3DV · 2025",
+      "links": [
+        [
+          "https://arxiv.org/abs/2412.03315",
+          "Paper"
+        ]
+      ],
+      "image": "data/3DV25.png",
+      "summary": ""
+    },
+    {
+      "title": "Weakly-supervised camera localization by ground-to-satellite image registration",
+      "authors": "Yujiao Shi, Hongdong Li, Akhil Perincherry, Ankit Vora",
+      "venue": "ECCV · 2024",
+      "links": [
+        [
+          "https://arxiv.org/abs/2409.06471",
+          "Paper"
+        ]
+      ],
+      "image": "data/G2SWeakly.png",
+      "summary": ""
+    },
+    {
+      "title": "Adapting fine-grained cross-view localization to areas without fine ground truth",
+      "authors": "Zimin Xia, Yujiao Shi , Hongdong Li, and Julian FP Kooij",
+      "venue": "ECCV · 2024",
+      "links": [
+        [
+          "https://arxiv.org/abs/2406.00474",
+          "Paper"
+        ]
+      ],
+      "image": "data/Adapting.png",
+      "summary": ""
+    },
+    {
+      "title": "Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer",
+      "authors": "Yujiao Shi , Fei Wu, Akhil Perincherry, Ankit Vora, and Hongdong Li",
+      "venue": "ICCV, 2023",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content/ICCV2023/papers/Shi_Boosting_3-DoF_Ground-to-Satellite_Camera_Localization_Accuracy_via_Geometry-Guided_Cross-View_Transformer_ICCV_2023_paper.pdf",
+          "Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer"
+        ],
+        [
+          "https://arxiv.org/pdf/2307.08015.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/Boosting3DoFAccuracy",
+          "code"
+        ]
+      ],
+      "image": "data/Boosting",
+      "summary": ""
+    },
+    {
+      "title": "CVLNet: Cross-View Feature Correspondence Learning for Video-based Camera Localization",
+      "authors": "Yujiao Shi , Xin Yu, Shan Wang, and Hongdong Li",
+      "venue": "ACCV, 2022",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content/ACCV2022/papers/Shi_CVLNet_Cross-View_Feature_Correspondence_Learning_for_Video-based_Camera_Localization_ACCV_2022_paper.pdf",
+          "CVLNet: Cross-View Semantic Correspondence Learning for Video-based Camera Localization"
+        ],
+        [
+          "https://openaccess.thecvf.com/content/ACCV2022/papers/Shi_CVLNet_Cross-View_Feature_Correspondence_Learning_for_Video-based_Camera_Localization_ACCV_2022_paper.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/CVLNet",
+          "code"
+        ]
+      ],
+      "image": "data/CVLNet",
+      "summary": ""
+    },
+    {
+      "title": "Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image",
+      "authors": "Yujiao Shi , Hongdong Li",
+      "venue": "CVPR, 2022",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Beyond_Cross-View_Image_Retrieval_Highly_Accurate_Vehicle_Localization_Using_Satellite_CVPR_2022_paper.pdf",
+          "Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image"
+        ],
+        [
+          "https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Beyond_Cross-View_Image_Retrieval_Highly_Accurate_Vehicle_Localization_Using_Satellite_CVPR_2022_paper.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/HighlyAccurate",
+          "code"
+        ]
+      ],
+      "image": "data/HighlyAccurate.png",
+      "summary": ""
+    },
+    {
+      "title": "Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching",
+      "authors": "Yujiao Shi , Xin Yu, Liu Liu, Dylan Campbell, Piotr Koniusz, and Hongdong Li",
+      "venue": "TPAMI, 2022",
+      "links": [
+        [
+          "https://arxiv.org/pdf/2203.14148.pdf",
+          "Accurate 3-DoF Camera Geo-Localization via Ground-to-Satellite Image Matching"
+        ],
+        [
+          "https://arxiv.org/pdf/2203.14148.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/IBL",
+          "code"
+        ]
+      ],
+      "image": "data/3DOF.png",
+      "summary": ""
+    },
+    {
+      "title": "Geometry-Guided Street-View Panorama Synthesis from Satellite Imagery",
+      "authors": "Yujiao Shi , Dylan Campbell, Xin Yu, and Hongdong Li",
+      "venue": "TPAMI, 2022",
+      "links": [
+        [
+          "https://arxiv.org/pdf/2103.01623.pdf",
+          "Geometry-Guided Street-View Panorama Synthesis from Satellite Imagery"
+        ],
+        [
+          "https://arxiv.org/pdf/2103.01623.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/Sat2StrPanoramaSynthesis",
+          "code"
+        ]
+      ],
+      "image": "data/Sat2Str.png",
+      "summary": ""
+    },
+    {
+      "title": "Self-Supervised Visibility Learning for Novel View Synthesis",
+      "authors": "Yujiao Shi , Hongdong Li, and Xin Yu",
+      "venue": "CVPR, 2021",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Self-Supervised_Visibility_Learning_for_Novel_View_Synthesis_CVPR_2021_paper.pdf",
+          "Self-Supervised Visibility Learning for Novel View Synthesis"
+        ],
+        [
+          "https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Self-Supervised_Visibility_Learning_for_Novel_View_Synthesis_CVPR_2021_paper.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/SVNVS",
+          "code"
+        ]
+      ],
+      "image": "data/SVNVS.png",
+      "summary": ""
+    },
+    {
+      "title": "Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching",
+      "authors": "Yujiao Shi , Xin Yu, Dylan Campbell, and Hongdong Li",
+      "venue": "CVPR, 2020",
+      "links": [
+        [
+          "https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Where_Am_I_Looking_At_Joint_Location_and_Orientation_Estimation_CVPR_2020_paper.pdf",
+          "Where am I looking at? Joint Location and Orientation Estimation by Cross-View Matching"
+        ],
+        [
+          "https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Where_Am_I_Looking_At_Joint_Location_and_Orientation_Estimation_CVPR_2020_paper.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/cross_view_localization_DSM",
+          "code"
+        ]
+      ],
+      "image": "data/DSM.png",
+      "summary": ""
+    },
+    {
+      "title": "Optimal Feature Transport for Cross-View Image Geo-Localization",
+      "authors": "Yujiao Shi , Xin Yu, Liu Liu, Tong Zhang, and Hongdong Li",
+      "venue": "AAAI, 2020",
+      "links": [
+        [
+          "https://ojs.aaai.org//index.php/AAAI/article/view/6875",
+          "Optimal Feature Transport for Cross-View Image Geo-Localization"
+        ],
+        [
+          "https://ojs.aaai.org//index.php/AAAI/article/view/6875",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/cross_view_localization_CVFT",
+          "code"
+        ]
+      ],
+      "image": "data/CVFT.png",
+      "summary": ""
+    },
+    {
+      "title": "Spatial-Aware Feature Aggregation for Cross-View Image based Geo-Localization",
+      "authors": "Yujiao Shi , Liu Liu, Xin Yu, and Hongdong Li",
+      "venue": "NeurIPS, 2019",
+      "links": [
+        [
+          "https://proceedings.neurips.cc/paper/2019/file/ba2f0015122a5955f8b3a50240fb91b2-Paper.pdf",
+          "Spatial-Aware Feature Aggregation for Cross-View Image based Geo-Localization"
+        ],
+        [
+          "https://proceedings.neurips.cc/paper/2019/file/ba2f0015122a5955f8b3a50240fb91b2-Paper.pdf",
+          "paper"
+        ],
+        [
+          "https://github.com/shiyujiao/cross_view_localization_SAFA",
+          "code"
+        ]
+      ],
+      "image": "data/SAFA.png",
+      "summary": ""
+    }
+  ]
+}
